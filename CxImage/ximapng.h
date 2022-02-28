@@ -28,9 +28,9 @@ extern "C" {
  #include <pngstruct.h>
  #include <pnginfo.h>
 #else
- #include "../libpng/png.h"
- #include "../libpng/pngstruct.h"
- #include "../libpng/pnginfo.h"
+ #include "../../libpng/png.h"
+ #include "../../libpng/pngstruct.h"
+ #include "../../libpng/pnginfo.h"
 #endif
 }
 
